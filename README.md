@@ -1,16 +1,29 @@
-### Hi there 👋
 
-<!--
-**Dimkalinin/DimKalinin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+    <h1>Hi, my name is Dmitry!</h1>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :man_technologist: About me:
+
+- :sparkles: Осваиваю новые области и развиваюсь в качестве Аналитика данных.
+- :chart_with_upwards_trend: Используя опыт работы по проектам, хотел бы применить свои знания для улучшения продуктов в компании.
+- :rocket: В ближайшие полгода планирую стать Middle-специалистом , пройти курсы повышения квалификации.
+- :zap: На досуге повышаю свой английский и прокачиваю hard skills на stepik.
+
+
+
+### 💻 Languages and Tools
+
+![python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python&)
+![MySQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=MySQL&)
+![gitlab](https://img.shields.io/badge/-gitlab-090909?style=for-the-badge&logo=gitlab&)
+![Tableau](https://img.shields.io/badge/-Tableau-090909?style=for-the-badge&logo=Tableau&)
+![apacheairflow](https://img.shields.io/badge/-airflow-090909?style=for-the-badge&logo=apacheairflow&)
+
+### 🤝 Follow me 
+
+[![telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram&logoColor=)](https://t.me/Dimchikask)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/dimchikask)
+[![mail.ru](https://img.shields.io/badge/-mail.ru-090909?style=for-the-badge&logo=mail.ru&logoColor=00468C)](https://e.mail.ru/compose/?to=kalinindim@inbox.ru)
